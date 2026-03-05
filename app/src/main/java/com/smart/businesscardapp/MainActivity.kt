@@ -82,7 +82,7 @@ fun BusinessCard() {
 
                 // Name
                 Text(
-                    text = "Saminu Umar",
+                    text = "Abdullahi Abdussalam Dalhat",
                     fontSize = 30.sp,
                     fontWeight = FontWeight.Bold
                 )
@@ -91,7 +91,7 @@ fun BusinessCard() {
 
                 // Title
                 Text(
-                    text = "AI Safety & Automation Engineer",
+                    text = "AI Developer and Instructor at EJAZTECH.AI",
                     fontSize = 18.sp,
                     color = Color(0xFF4CAF50),
                     fontWeight = FontWeight.Medium
@@ -103,8 +103,8 @@ fun BusinessCard() {
 
                 Spacer(modifier = Modifier.height(20.dp))
 
-                ContactRow(Icons.Default.Phone, "+234 816 813 8127")
-                ContactRow(Icons.Default.Email, "sumar@engineering.abu.edu.ng")
+                ContactRow(Icons.Default.Phone, "+234 916 065 3917")
+                ContactRow(Icons.Default.Email, "adabdussalam@engineering.abu.edu.ng")
 
                 ContactRow(Icons.Default.LocationOn, "Ahmadu Bello University, Zaria")
             }
