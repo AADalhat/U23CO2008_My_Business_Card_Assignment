@@ -1,7 +1,7 @@
 # 📇 Smart Business Card App
 
 A modern **Android Business Card Application** built with **Kotlin** and **Jetpack Compose**.
-This app showcases a clean and professional digital business card interface designed using **Material Design 3 principles**.
+This app showcases a clean digital business card interface designed using **Material Design 3 principles**.
 
 The application displays a personal profile with contact information in a **modern card-based layout**, demonstrating the power of **Jetpack Compose for building elegant Android UIs**.
 
@@ -54,8 +54,8 @@ All arranged in a **modern Material Card layout**.
 
 ## 👨🏾‍💻 Author
 
-**Saminu Umar**
-AI Safety & Automation Engineer
+**Abdullahi Abdussalam Dalhat**
+AI Developer and Instructor at EJAZTECH.AI
 
 📍 Ahmadu Bello University, Zaria
 🇳🇬 Nigeria
@@ -64,7 +64,4 @@ AI Safety & Automation Engineer
 
 ## 📜 License
 
-This project is open-source and available for learning and educational purposes.
-"# U23CO2008_My_Business_Card_Assignment" 
-"# AADalhat-U23CO2008_My_Business_Card_Assignment" 
-"# AADalhat-U23CO2008_My_Business_Card_Assignment" 
+This project is open-source and available for learning and educational purposes. 
