@@ -46,7 +46,7 @@ The app displays:
 
 * Profile Image
 * Name and Professional Title
-* Contact Details (Phone, Email, Website, Location)
+* Contact Details (Phone, Email, Location)
 
 All arranged in a **modern Material Card layout**.
 
